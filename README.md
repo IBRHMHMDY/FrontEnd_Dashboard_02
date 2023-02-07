@@ -1,2 +1,4 @@
-# UI_Dashboard-02
-Dashboard - UI
+# Dashboard UI
+ - Project: Dashboard UI
+ - Tools: [HTML+CSS+JS]
+ - Features: [MultiLanguages - Dark Mode - Responsive]
